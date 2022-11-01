@@ -12,6 +12,7 @@ Algunos de los regursos que utilizo.
 ### Imagenes
 - https://pixabay.com/es/photos/
 - https://www.pexels.com/es-es/
+- https://avatars.dicebear.com/
 
 ### Videos
 - https://pixabay.com/es/videos/
@@ -22,3 +23,4 @@ Algunos de los regursos que utilizo.
 - https://html-css-js.com/css/generator/text-shadow/
 - https://webcode.tools/
 - https://www.cssportal.com/css3-button-generator/
+
