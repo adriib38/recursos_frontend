@@ -6,6 +6,7 @@ Algunos de los regursos que utilizo.
 ## Colores
 - https://coolors.co/
 - https://mybrandnewlogo.com/color-palette-generator
+- https://www.happyhues.co/
 
 ## Bancos libres
 ### Imagenes
