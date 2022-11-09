@@ -13,6 +13,7 @@ Algunos de los regursos que utilizo.
 - https://pixabay.com/es/photos/
 - https://www.pexels.com/es-es/
 - https://avatars.dicebear.com/
+- https://shields.io/
 
 ### Videos
 - https://pixabay.com/es/videos/
