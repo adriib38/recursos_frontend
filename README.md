@@ -25,3 +25,5 @@ Algunos de los regursos que utilizo.
 - https://webcode.tools/
 - https://www.cssportal.com/css3-button-generator/
 
+## Otros
+- https://ideakreativa.net/efectos-con-texto-css-116-ejemplos-geniales-que-puedes-descargar/
