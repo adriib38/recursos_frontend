@@ -24,6 +24,8 @@ Algunos de los regursos que utilizo.
 - https://html-css-js.com/css/generator/text-shadow/
 - https://webcode.tools/
 - https://www.cssportal.com/css3-button-generator/
+- https://www.layoutit.com/
+- https://www.pagecolumn.com/
 
 ## Otros
 - https://ideakreativa.net/efectos-con-texto-css-116-ejemplos-geniales-que-puedes-descargar/
