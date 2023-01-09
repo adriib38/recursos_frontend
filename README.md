@@ -34,4 +34,4 @@ Algunos de los regursos que utilizo.
 ## Otros
 - https://ideakreativa.net/efectos-con-texto-css-116-ejemplos-geniales-que-puedes-descargar/
 - https://gist.github.com/rxaviers/7360908
-
+- https://chat.openai.com/
